@@ -19,3 +19,5 @@ uygulama normal kullanıcıların  kayıtlarını burada tutar ılgılı kayıt 
 4--bilgisayrınıza ffmpeg indirn ve buraya çıkarın ve ffmpeg i path e eklemeyi unutmayın.(ipucu :  bilmiyorsanız path' e ekelemek ne demek diye
 yapay zekaya sorabilirsiniz)
 KULLANIM KOLAYLIĞI için ilgili tüm dosyaları buraya ekledim.
+---------GEREKLİ KÜTÜPHANELER----------
+pip install customtkinter opencv-python numpy Pillow
